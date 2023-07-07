@@ -11,7 +11,11 @@
 
 
 # Demonstration video
-https://github.com/developerMathi/ContinuousMeanValueCalculation/assets/54667723/16d1e939-6c4b-4b7d-bbb4-96e436a6ab36
+
+https://github.com/developerMathi/ContinuousMeanValueCalculation/assets/54667723/1333015a-4197-4fd5-9c86-265e1b312fde
+
+
+
 
 # Executable exe file
 you can get the executable exe file by using below link
